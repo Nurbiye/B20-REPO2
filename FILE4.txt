@@ -2,3 +2,7 @@ THIS IS MY 4RTH FILE
 
 second way:
 drag and drop 
+
+
+
+if everything in user shows up in github desk top, i can go to the terminal, check git status, if there are a bunch of stuff, i can use     "rm -rf .git"          to delete accidental repo at root user folder. (it means whole my computer under my user name in under control version )
